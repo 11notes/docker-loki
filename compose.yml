@@ -9,7 +9,7 @@ x-lockdown: &lockdown
 
 services:
   loki:
-    image: "11notes/loki:3.6.5"
+    image: "11notes/loki:3.6.6"
     <<: *lockdown
     environment:
       TZ: "Europe/Zurich"
