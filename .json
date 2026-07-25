@@ -3,7 +3,7 @@
   "name": "loki",
   "root": "/loki",
   "semver": {
-    "version": "3.7.3"
+    "version": "3.7.4"
   },
   "readme": {
     "description": "run loki rootless and distroless",
