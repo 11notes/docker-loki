@@ -20,5 +20,7 @@
     "comparison": {
       "image": "grafana/loki"
     }
-  }
+  },
+  "unraid": true,
+  "nobody": true
 }
